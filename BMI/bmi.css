@@ -1,0 +1,24 @@
+.result-green {
+    color: green;
+}
+
+.result-red {
+    color: red;
+}
+
+body {
+    padding: 0 10% 0 10%;
+}
+
+.button {
+    background-color: green;
+    color: white;
+}
+
+* {
+    margin: 2.5% 0 2.5% 0;
+}
+
+input {
+    margin: 0;
+}
